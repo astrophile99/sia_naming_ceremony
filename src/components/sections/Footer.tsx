@@ -201,7 +201,7 @@ export default function Footer() {
           transition={{ delay: 0.7 }}
         >
           <p className="font-body text-xs text-rose-400/50 tracking-widest uppercase">
-            © 2024 Sia&apos;s Naming Ceremony • All memories reserved
+            © 2026 Sia&apos;s Naming Ceremony • All memories reserved
           </p>
         </motion.div>
       </div>

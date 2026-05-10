@@ -259,7 +259,7 @@ export default function HeroSection() {
           transition={{ delay: 1.5, duration: 0.8 }}
         >
           {[
-            { value: "30+", label: "Memories" },
+            { value: "100+", label: "Memories" },
             { value: "💝", label: "With Love" },
             { value: "∞", label: "Cherished" },
           ].map((item) => (
