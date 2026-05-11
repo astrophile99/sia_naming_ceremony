@@ -23,7 +23,7 @@ export const photos: Photo[] = raw;
 export const timelineItems = [
   {
     id: 1,
-    time: "9:00 AM",
+    time: "10:00 AM",
     title: "Morning Prayers & Blessings",
     description:
       "The day began with sacred prayers and heartfelt blessings from grandparents and elders, welcoming little Sia into the family with love and grace.",
@@ -32,7 +32,7 @@ export const timelineItems = [
   },
   {
     id: 2,
-    time: "10:30 AM",
+    time: "12:30 AM",
     title: "The Grand Reveal — She is Sia!",
     description:
       "In a magical moment that moved every heart in the room, her name was announced. The room erupted in joy — our precious princess is Sia.",
@@ -41,7 +41,7 @@ export const timelineItems = [
   },
   {
     id: 3,
-    time: "11:30 AM",
+    time: "12:40 AM",
     title: "Family Blessings & First Photos",
     description:
       "Grandparents, aunts, uncles, and cousins gathered around — each blessing Sia with love. The photographers captured every smiling, tearful moment.",
@@ -68,7 +68,7 @@ export const timelineItems = [
   },
   {
     id: 6,
-    time: "5:00 PM",
+    time: "4:00 PM",
     title: "Goodbyes & Warm Farewells",
     description:
       "As the golden hour bathed everything in soft light, guests left carrying hearts full of love and memories that will be treasured forever.",

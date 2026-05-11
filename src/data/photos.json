@@ -1,200 +1,914 @@
 [
   {
     "id": 1,
-    "src": "/photos/ceremony/photo1.jpg",
+    "src": "/photos/ceremony/DSC06503.JPG",
     "category": "ceremony",
     "alt": "Sia's naming ceremony – ceremony"
   },
   {
     "id": 2,
-    "src": "/photos/ceremony/photo2.jpg",
+    "src": "/photos/ceremony/DSC06508.JPG",
     "category": "ceremony",
     "alt": "Sia's naming ceremony – ceremony"
   },
   {
     "id": 3,
-    "src": "/photos/ceremony/photo3.jpg",
+    "src": "/photos/ceremony/DSC06511.JPG",
     "category": "ceremony",
     "alt": "Sia's naming ceremony – ceremony"
   },
   {
     "id": 4,
-    "src": "/photos/ceremony/photo4.jpeg",
+    "src": "/photos/ceremony/DSC06515.JPG",
     "category": "ceremony",
     "alt": "Sia's naming ceremony – ceremony"
   },
   {
     "id": 5,
-    "src": "/photos/ceremony/photo5.jpeg",
+    "src": "/photos/ceremony/DSC06517.JPG",
     "category": "ceremony",
     "alt": "Sia's naming ceremony – ceremony"
   },
   {
     "id": 6,
-    "src": "/photos/ceremony/photo6.jpeg",
+    "src": "/photos/ceremony/DSC06521.JPG",
     "category": "ceremony",
     "alt": "Sia's naming ceremony – ceremony"
   },
   {
     "id": 7,
-    "src": "/photos/ceremony/photo7.jpeg",
+    "src": "/photos/ceremony/DSC06526.JPG",
     "category": "ceremony",
     "alt": "Sia's naming ceremony – ceremony"
   },
   {
     "id": 8,
-    "src": "/photos/ceremony/photo8.jpeg",
+    "src": "/photos/ceremony/DSC06531.JPG",
     "category": "ceremony",
     "alt": "Sia's naming ceremony – ceremony"
   },
   {
     "id": 9,
-    "src": "/photos/ceremony/photo9.jpeg",
+    "src": "/photos/ceremony/DSC06533.JPG",
     "category": "ceremony",
     "alt": "Sia's naming ceremony – ceremony"
   },
   {
     "id": 10,
-    "src": "/photos/ceremony/photo10.jpeg",
+    "src": "/photos/ceremony/DSC06549.JPG",
     "category": "ceremony",
     "alt": "Sia's naming ceremony – ceremony"
   },
   {
     "id": 11,
-    "src": "/photos/ceremony/photo11.jpeg",
+    "src": "/photos/ceremony/DSC06720.JPG",
     "category": "ceremony",
     "alt": "Sia's naming ceremony – ceremony"
   },
   {
     "id": 12,
-    "src": "/photos/ceremony/photo12.jpeg",
-    "category": "ceremony",
-    "alt": "Sia's naming ceremony – ceremony"
+    "src": "/photos/family/DSC06519.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
   },
   {
     "id": 13,
-    "src": "/photos/ceremony/photo13.jpeg",
-    "category": "ceremony",
-    "alt": "Sia's naming ceremony – ceremony"
+    "src": "/photos/family/DSC06523.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
   },
   {
     "id": 14,
-    "src": "/photos/ceremony/photo14.jpeg",
-    "category": "ceremony",
-    "alt": "Sia's naming ceremony – ceremony"
+    "src": "/photos/family/DSC06528.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
   },
   {
     "id": 15,
-    "src": "/photos/ceremony/photo15.jpeg",
-    "category": "ceremony",
-    "alt": "Sia's naming ceremony – ceremony"
+    "src": "/photos/family/DSC06553.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
   },
   {
     "id": 16,
-    "src": "/photos/ceremony/photo16.jpeg",
-    "category": "ceremony",
-    "alt": "Sia's naming ceremony – ceremony"
+    "src": "/photos/family/DSC06556.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
   },
   {
     "id": 17,
-    "src": "/photos/ceremony/photo17.jpeg",
-    "category": "ceremony",
-    "alt": "Sia's naming ceremony – ceremony"
+    "src": "/photos/family/DSC06559.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
   },
   {
     "id": 18,
-    "src": "/photos/ceremony/photo18.jpeg",
-    "category": "ceremony",
-    "alt": "Sia's naming ceremony – ceremony"
+    "src": "/photos/family/DSC06560.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
   },
   {
     "id": 19,
-    "src": "/photos/ceremony/photo19.jpeg",
-    "category": "ceremony",
-    "alt": "Sia's naming ceremony – ceremony"
+    "src": "/photos/family/DSC06563.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
   },
   {
     "id": 20,
-    "src": "/photos/ceremony/photo20.jpeg",
-    "category": "ceremony",
-    "alt": "Sia's naming ceremony – ceremony"
+    "src": "/photos/family/DSC06566.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
   },
   {
     "id": 21,
-    "src": "/photos/ceremony/photo21.jpeg",
-    "category": "ceremony",
-    "alt": "Sia's naming ceremony – ceremony"
+    "src": "/photos/family/DSC06568.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
   },
   {
     "id": 22,
-    "src": "/photos/ceremony/photo22.jpeg",
-    "category": "ceremony",
-    "alt": "Sia's naming ceremony – ceremony"
+    "src": "/photos/family/DSC06570.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
   },
   {
     "id": 23,
-    "src": "/photos/family/photo23.jpeg",
+    "src": "/photos/family/DSC06578.JPG",
     "category": "family",
     "alt": "Sia's naming ceremony – family"
   },
   {
     "id": 24,
-    "src": "/photos/family/photo24.jpeg",
+    "src": "/photos/family/DSC06582.JPG",
     "category": "family",
     "alt": "Sia's naming ceremony – family"
   },
   {
     "id": 25,
-    "src": "/photos/family/photo25.jpeg",
+    "src": "/photos/family/DSC06584.JPG",
     "category": "family",
     "alt": "Sia's naming ceremony – family"
   },
   {
     "id": 26,
-    "src": "/photos/family/photo26.jpeg",
+    "src": "/photos/family/DSC06589.JPG",
     "category": "family",
     "alt": "Sia's naming ceremony – family"
   },
   {
     "id": 27,
-    "src": "/photos/family/photo27.jpeg",
+    "src": "/photos/family/DSC06592.JPG",
     "category": "family",
     "alt": "Sia's naming ceremony – family"
   },
   {
     "id": 28,
-    "src": "/photos/family/photo28.jpeg",
+    "src": "/photos/family/DSC06667.JPG",
     "category": "family",
     "alt": "Sia's naming ceremony – family"
   },
   {
     "id": 29,
-    "src": "/photos/family/photo29.jpeg",
+    "src": "/photos/family/DSC06670.JPG",
     "category": "family",
     "alt": "Sia's naming ceremony – family"
   },
   {
     "id": 30,
-    "src": "/photos/family/photo30.jpeg",
+    "src": "/photos/family/DSC06673.JPG",
     "category": "family",
     "alt": "Sia's naming ceremony – family"
   },
   {
     "id": 31,
-    "src": "/photos/family/photo31.jpeg",
+    "src": "/photos/family/DSC06699.JPG",
     "category": "family",
     "alt": "Sia's naming ceremony – family"
   },
   {
     "id": 32,
-    "src": "/photos/family/photo32.jpeg",
+    "src": "/photos/family/DSC06773.JPG",
     "category": "family",
     "alt": "Sia's naming ceremony – family"
   },
   {
     "id": 33,
-    "src": "/photos/family/photo33.jpeg",
+    "src": "/photos/family/DSC06775.JPG",
     "category": "family",
     "alt": "Sia's naming ceremony – family"
+  },
+  {
+    "id": 34,
+    "src": "/photos/family/DSC06834.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
+  },
+  {
+    "id": 35,
+    "src": "/photos/family/DSC06836.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
+  },
+  {
+    "id": 36,
+    "src": "/photos/family/DSC06839.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
+  },
+  {
+    "id": 37,
+    "src": "/photos/family/DSC06847.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
+  },
+  {
+    "id": 38,
+    "src": "/photos/family/DSC06850.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
+  },
+  {
+    "id": 39,
+    "src": "/photos/family/DSC06852.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
+  },
+  {
+    "id": 40,
+    "src": "/photos/family/DSC06854.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
+  },
+  {
+    "id": 41,
+    "src": "/photos/family/DSC06858.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
+  },
+  {
+    "id": 42,
+    "src": "/photos/family/DSC06860.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
+  },
+  {
+    "id": 43,
+    "src": "/photos/family/DSC06866.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
+  },
+  {
+    "id": 44,
+    "src": "/photos/family/DSC06868.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
+  },
+  {
+    "id": 45,
+    "src": "/photos/family/DSC06872.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
+  },
+  {
+    "id": 46,
+    "src": "/photos/family/DSC06876.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
+  },
+  {
+    "id": 47,
+    "src": "/photos/family/DSC06877.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
+  },
+  {
+    "id": 48,
+    "src": "/photos/family/DSC06886.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
+  },
+  {
+    "id": 49,
+    "src": "/photos/family/DSC06887.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
+  },
+  {
+    "id": 50,
+    "src": "/photos/family/DSC06891.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
+  },
+  {
+    "id": 51,
+    "src": "/photos/family/DSC06896.JPG",
+    "category": "family",
+    "alt": "Sia's naming ceremony – family"
+  },
+  {
+    "id": 52,
+    "src": "/photos/candid/DSC06312.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 53,
+    "src": "/photos/candid/DSC06322.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 54,
+    "src": "/photos/candid/DSC06326.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 55,
+    "src": "/photos/candid/DSC06331.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 56,
+    "src": "/photos/candid/DSC06335.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 57,
+    "src": "/photos/candid/DSC06344.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 58,
+    "src": "/photos/candid/DSC06352.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 59,
+    "src": "/photos/candid/DSC06375.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 60,
+    "src": "/photos/candid/DSC06390.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 61,
+    "src": "/photos/candid/DSC06391.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 62,
+    "src": "/photos/candid/DSC06396.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 63,
+    "src": "/photos/candid/DSC06400.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 64,
+    "src": "/photos/candid/DSC06402.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 65,
+    "src": "/photos/candid/DSC06405.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 66,
+    "src": "/photos/candid/DSC06412.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 67,
+    "src": "/photos/candid/DSC06417.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 68,
+    "src": "/photos/candid/DSC06418.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 69,
+    "src": "/photos/candid/DSC06419.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 70,
+    "src": "/photos/candid/DSC06422.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 71,
+    "src": "/photos/candid/DSC06428.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 72,
+    "src": "/photos/candid/DSC06432.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 73,
+    "src": "/photos/candid/DSC06437.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 74,
+    "src": "/photos/candid/DSC06439.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 75,
+    "src": "/photos/candid/DSC06443.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 76,
+    "src": "/photos/candid/DSC06453.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 77,
+    "src": "/photos/candid/DSC06457.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 78,
+    "src": "/photos/candid/DSC06462.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 79,
+    "src": "/photos/candid/DSC06466.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 80,
+    "src": "/photos/candid/DSC06468.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 81,
+    "src": "/photos/candid/DSC06472.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 82,
+    "src": "/photos/candid/DSC06477.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 83,
+    "src": "/photos/candid/DSC06487.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 84,
+    "src": "/photos/candid/DSC06495.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 85,
+    "src": "/photos/candid/DSC06501.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 86,
+    "src": "/photos/candid/DSC06540.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 87,
+    "src": "/photos/candid/DSC06575.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 88,
+    "src": "/photos/candid/DSC06602.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 89,
+    "src": "/photos/candid/DSC06614.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 90,
+    "src": "/photos/candid/DSC06621.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 91,
+    "src": "/photos/candid/DSC06624.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 92,
+    "src": "/photos/candid/DSC06627.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 93,
+    "src": "/photos/candid/DSC06638.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 94,
+    "src": "/photos/candid/DSC06640.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 95,
+    "src": "/photos/candid/DSC06642.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 96,
+    "src": "/photos/candid/DSC06649.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 97,
+    "src": "/photos/candid/DSC06651.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 98,
+    "src": "/photos/candid/DSC06653.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 99,
+    "src": "/photos/candid/DSC06654.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 100,
+    "src": "/photos/candid/DSC06678.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 101,
+    "src": "/photos/candid/DSC06681.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 102,
+    "src": "/photos/candid/DSC06684.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 103,
+    "src": "/photos/candid/DSC06695.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 104,
+    "src": "/photos/candid/DSC06703.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 105,
+    "src": "/photos/candid/DSC06706.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 106,
+    "src": "/photos/candid/DSC06714.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 107,
+    "src": "/photos/candid/DSC06716.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 108,
+    "src": "/photos/candid/DSC06728.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 109,
+    "src": "/photos/candid/DSC06735.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 110,
+    "src": "/photos/candid/DSC06750.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 111,
+    "src": "/photos/candid/DSC06783.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 112,
+    "src": "/photos/candid/DSC06785.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 113,
+    "src": "/photos/candid/DSC06793.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 114,
+    "src": "/photos/candid/DSC06806.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 115,
+    "src": "/photos/candid/DSC06827.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 116,
+    "src": "/photos/candid/DSC06845.JPG",
+    "category": "candid",
+    "alt": "Sia's naming ceremony – candid"
+  },
+  {
+    "id": 117,
+    "src": "/photos/details/DSC06328.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 118,
+    "src": "/photos/details/DSC06342.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 119,
+    "src": "/photos/details/DSC06343.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 120,
+    "src": "/photos/details/DSC06347.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 121,
+    "src": "/photos/details/DSC06351.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 122,
+    "src": "/photos/details/DSC06366.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 123,
+    "src": "/photos/details/DSC06369.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 124,
+    "src": "/photos/details/DSC06373.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 125,
+    "src": "/photos/details/DSC06386.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 126,
+    "src": "/photos/details/DSC06389.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 127,
+    "src": "/photos/details/DSC06425.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 128,
+    "src": "/photos/details/DSC06435.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 129,
+    "src": "/photos/details/DSC06436.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 130,
+    "src": "/photos/details/DSC06475.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 131,
+    "src": "/photos/details/DSC06482.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 132,
+    "src": "/photos/details/DSC06483.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 133,
+    "src": "/photos/details/DSC06484.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 134,
+    "src": "/photos/details/DSC06496.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 135,
+    "src": "/photos/details/DSC06506.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 136,
+    "src": "/photos/details/DSC06541.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 137,
+    "src": "/photos/details/DSC06545.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 138,
+    "src": "/photos/details/DSC06596.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 139,
+    "src": "/photos/details/DSC06609.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 140,
+    "src": "/photos/details/DSC06612.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 141,
+    "src": "/photos/details/DSC06616.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 142,
+    "src": "/photos/details/DSC06686.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 143,
+    "src": "/photos/details/DSC06691.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 144,
+    "src": "/photos/details/DSC06707.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 145,
+    "src": "/photos/details/DSC06722.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 146,
+    "src": "/photos/details/DSC06730.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 147,
+    "src": "/photos/details/DSC06737.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 148,
+    "src": "/photos/details/DSC06742.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 149,
+    "src": "/photos/details/DSC06745.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 150,
+    "src": "/photos/details/DSC06752.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 151,
+    "src": "/photos/details/DSC06757.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
+  },
+  {
+    "id": 152,
+    "src": "/photos/details/DSC06823.JPG",
+    "category": "details",
+    "alt": "Sia's naming ceremony – details"
   }
 ]
